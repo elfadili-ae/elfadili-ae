@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdessamad EL FADILI</h1>
 <h3 align="center">Game Dev</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elfadili-ae" alt="elfadili-ae" /></a> </p>
+<p align="left"> <a href="https://github.com/elfadili-ae"><img src="https://github-profile-trophy.vercel.app/?username=elfadili-ae" alt="elfadili-ae" /></a> </p>
 
 - 🌱 I’m currently a student at **ALX Africa Software Enginner**
 
