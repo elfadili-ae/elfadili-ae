@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/elfadili-ae"><img src="https://github-profile-trophy.vercel.app/?username=elfadili-ae" alt="elfadili-ae" /></a> </p>
 
-- 🌱 I’m currently a student at **ALX Africa Software Enginner**
+- 🌱 I’m currently a student at **ALX Africa Software Engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
