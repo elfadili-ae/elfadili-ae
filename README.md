@@ -33,6 +33,7 @@
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/miranor)
 [![Photoshop](https://img.shields.io/badge/phtoshop-black?style=for-the-badge&logo=adobe-photoshop)](https://github.com/elfadili-ae)
 [![Illustrator](https://img.shields.io/badge/illustrator-black?style=for-the-badge&logo=adobe-illustrator)](https://github.com/elfadili-ae)
+[![Emacs](https://img.shields.io/badge/emacs-black?style=for-the-badge&logo=spacemacs)](https://github.com/elfadili-ae)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/elfadili-ae)
