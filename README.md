@@ -7,7 +7,7 @@
         Currently a Software Engineer student at ALX Africa.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/abdessamad-el-fadili-4ba6611a3/">
+    <a href="https://www.linkedin.com/in/abdessamad-el-fadili/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://twitter.com/elfadili_ae">
