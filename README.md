@@ -1,4 +1,4 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center" align-items="center" justify-conteent="center"><img src="https://github.com/elfadili-ae/elfadili-ae/assets/105720445/69783c60-0cd4-4b60-85bb-0b267ef18f31" width="180px"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
