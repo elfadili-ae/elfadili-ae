@@ -53,7 +53,7 @@
   </a>
 
 <a href="https://github.com/elfadili-ae">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfadili-ae&langs_count=4&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfadili-ae&langs_count=7&theme=transparent" />
   </a>
 </p>
 </details>
