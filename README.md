@@ -24,6 +24,7 @@
 [![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/elfadili-ae)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/elfadili-ae)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/elfadili-ae)
+[![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/elfadili-ae)
 
 
 ### Technologies & Frameworks & Tools
