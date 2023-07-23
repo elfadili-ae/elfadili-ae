@@ -25,6 +25,8 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/elfadili-ae)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/elfadili-ae)
 [![Javascript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/elfadili-ae)
+[![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)](https://github.com/elfadili-ae)
+[![css](https://img.shields.io/badge/css-black?style=for-the-badge&logo=CSS3)](https://github.com/elfadili-ae)
 
 
 ### Technologies & Frameworks & Tools
