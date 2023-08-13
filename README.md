@@ -32,16 +32,24 @@
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)](https://github.com/elfadili-ae)
 [![css](https://img.shields.io/badge/css-black?style=for-the-badge&logo=CSS3)](https://github.com/elfadili-ae)
 
+### Frontend Frameworks
+[![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap)](https://github.com/elfadili-ae)
 
 
-### Technologies & Frameworks & Tools
+### Backend Frameworks
+[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/elfadili-ae)
+
+### Technologies & Tools
 [![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/elfadili-ae)
 [![Blender](https://img.shields.io/badge/blender-black?style=for-the-badge&logo=blender)](https://github.com/elfadili-ae)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/elfadili-ae)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/miranor)
 [![Emacs](https://img.shields.io/badge/emacs-black?style=for-the-badge&logo=spacemacs)](https://github.com/elfadili-ae)
 [![Photoshop](https://img.shields.io/badge/phtoshop-black?style=for-the-badge&logo=adobe-photoshop)](https://github.com/elfadili-ae)
 [![Illustrator](https://img.shields.io/badge/illustrator-black?style=for-the-badge&logo=adobe-illustrator)](https://github.com/elfadili-ae)
+
+### DevOps
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/miranor)
+[![Vagrant](https://img.shields.io/badge/vagrant-black?style=for-the-badge&logo=vagrant)](https://github.com/elfadili-ae)
 
 
 ### OS
