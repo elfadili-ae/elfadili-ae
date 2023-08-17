@@ -39,6 +39,9 @@
 ### Backend Frameworks
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/elfadili-ae)
 
+### Database
+[![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/elfadili-ae)
+
 ### Technologies & Tools
 [![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/elfadili-ae)
 [![Blender](https://img.shields.io/badge/blender-black?style=for-the-badge&logo=blender)](https://github.com/elfadili-ae)
