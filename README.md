@@ -1,7 +1,5 @@
-<h1 align="center" align-items="center" justify-conteent="center"><img src="https://github.com/elfadili-ae/elfadili-ae/assets/105720445/69783c60-0cd4-4b60-85bb-0b267ef18f31" width="180px"></h1>
-
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <b>Welcome to my github!</b><br><br>
     <i>
         I'm Abdessamad EL FADILI.<br>
         Currently a Software Engineer student at ALX Africa.<br>
