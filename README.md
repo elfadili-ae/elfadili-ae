@@ -8,6 +8,9 @@
     <a href="https://www.linkedin.com/in/abdessamad-el-fadili/">
         <img src="https://img.shields.io/badge/LinkedIn-330F63?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+    <a href="https://stackoverflow.com/users/11228377/abdessamad-el">
+        <img src="https://img.shields.io/badge/stack%20overflow-330F63?logo=stack-overflow&style=flat-square" alt="LinkedIn">
+    </a>
     <a href="https://twitter.com/elfadili_ae">
         <img src="https://img.shields.io/badge/twitter-330F63?style=flat-square&logo=twitter" alt="Twitter">
     </a>
